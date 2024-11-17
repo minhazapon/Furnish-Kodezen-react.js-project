@@ -6,8 +6,15 @@ const HomeBanner = () => {
 
     
     return (
-        <div>
-            
+        <div className=" bannerAll ">
+            <div className="  ">
+               <p className=" bannerText ExText ">Explore any kind of furnitures</p>
+               <p className=" bannerText DiscoverText ">Discover Your<br></br>
+               Dream Furniture</p>
+               <div className=" BannerB2 ">
+               <button className=" bannerButton buttonHover ">Check Products</button>
+               </div>
+            </div>
         </div>
     );
 };
