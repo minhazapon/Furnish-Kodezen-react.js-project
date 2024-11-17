@@ -21,5 +21,34 @@
     border: 1px solid #2C9289 ;
     padding: 10px;
 
+}
+.navLogo{
+
+    display: flex;
+    align-items: center;
+    gap: 3px;
+
+}
+.navbar{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  
+
+}
+.navAllButton{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+}
+.buttonHover:hover{
+   
+   border: 1px solid black;
+   border-radius: 3px;
+
 
 }

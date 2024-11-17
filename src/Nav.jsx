@@ -1,35 +1,23 @@
+import { NavLink } from "react-router-dom";
 
 
 
 const Nav = () => {
     return (
         <div>
-
-
             <div className=" navbar ">
-                
-                <div>
-                  
+                <div className=" navLogo  ">
+                <NavLink to='/'>
+                <img className=" " src="https://cdn-icons-gif.flaticon.com/6172/6172551.gif" alt="" height="50px" width="60px" /> 
+                </NavLink>
                 <p className="navName  ">FURNISH</p>
-
                 </div>
-               
-
-
-                 
-                <div>
-
-                    <button className=" navAbout  ">About us</button>
-                    <button className=" navAbout  ">Contact us</button>
-                    <button className=" navSign ">Sign In</button>
-                    
-                    
+                <div className=" navAllButton ">
+                <NavLink><button className=" navAbout buttonHover   ">About us</button></NavLink>
+                <NavLink><button className=" navAbout buttonHover">Contact us</button></NavLink>
+                <button className=" navSign  buttonHover ">Sign In</button>
                 </div> 
-
-
-
             </div>
-            
         </div>
     );
 };
