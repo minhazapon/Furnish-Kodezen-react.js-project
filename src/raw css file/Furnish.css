@@ -354,5 +354,60 @@
    color: yellow;
 
 }
+.clientText{
 
+   font-size: 20px;
+
+}
+.img-1{
+
+   border: 1px solid gray;
+
+}
+.CT-1{
+
+   font-size: 20px;
+
+}
+.CT-2{
+
+   color: gray;
+
+}
+.Client-cardOne{
+
+   display: flex;
+   align-items: center;
+   gap: 30px;
+   background: #F3FBFB;
+   padding: 20px;
+   border-radius: 10px;
+
+}
+.all-client-card{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+
+}
+.img-border{
+
+   border-radius: 10px;
+
+
+}
+.C-R{
+
+   margin-bottom: -18px;
+
+}
+.Clients{
+
+   display: flex;
+   justify-content: center;
+   padding: 80px;
+
+}
 
