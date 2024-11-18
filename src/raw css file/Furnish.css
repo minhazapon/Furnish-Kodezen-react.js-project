@@ -291,5 +291,36 @@
 
    background: #F5E7D6;
 
+}
+.KITCHENText{
+
+   font-size: 20px;
+   color: white;
+
+}
+.AI-text{
+
+   color: gray; 
+
+}
+.AllProjects{
+   
+   display: flex;
+   align-items: center;
+   gap: 20px;
+
+
+}
+.LatesProject{
+   
+   padding: 30px;
+   display: flex;
+   justify-content: center;
+   background: #0F3141;
+
+}
+.lp-title{
+
+   color: white;
 
 }
