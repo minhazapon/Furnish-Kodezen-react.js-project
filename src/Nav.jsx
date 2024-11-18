@@ -8,7 +8,7 @@ const Nav = () => {
             <div className=" navbar ">
                 <div className=" navLogo  ">
                 <NavLink to='/'>
-                <img className=" " src="https://cdn-icons-gif.flaticon.com/6172/6172551.gif" alt="" height="50px" width="60px" /> 
+                <img className=" " src="https://cdn-icons-png.flaticon.com/128/5234/5234853.png" alt="" height="50px" width="60px" /> 
                 </NavLink>
                 <p className="navName  ">FURNISH</p>
                 </div>
