@@ -37,6 +37,10 @@
     justify-content: space-between;
     align-items: center;
     padding: 25px;
+    background: rgba(234, 246, 248, 0.144);
+    box-shadow:  0 3px 3px 0 rgba(99, 99, 99, 0.19);
+    /* margin-bottom: 50px; */
+   
     
   
 
@@ -50,11 +54,10 @@
 }
 .buttonHover:hover{
    
-   border: 1px solid black;
+   border: 1px solid rgba(128, 128, 128, 0.322);
    border-radius: 3px;
    cursor: pointer;
-
-
+   
 }
 .bannerText{
    
@@ -99,7 +102,8 @@
    background-size: cover;
    background-repeat: no-repeat;
    padding: 190px;  
-   margin-top: -20px;  
+   /* margin-top: -20px;   */
+
 }
 .BestText{
 
@@ -148,4 +152,144 @@
    padding: 30px;
 
 }
+.SP-title{
+   
+   font-size: 40px; 
+ 
+}
+.chair-bg{
 
+   background: #F8F4F2;
+
+
+}
+.Office-Chair{
+
+   color: #2C9289;
+   font-size: 16px;
+   background: #F3FBFB;
+   width: fit-content;
+   padding: 4px;
+   border-radius: 3px;
+
+}
+.Cream-Office-Chair{
+
+   font-size: 20px;
+
+}
+.numberText{
+
+   color: #2C9289;
+
+}
+.numberText2{
+
+   color: rgba(128, 128, 128, 0.692);
+   text-decoration: line-through
+
+}
+.AllNumber{
+
+   display: flex;
+   align-items: center;
+   gap: 5px;
+
+}
+.color1{
+
+   height: 15px;
+   width: 15px;
+   background: #2C9289;
+   border-radius: 100%;
+   border: 1px solid white;
+   margin-left: -5px;
+
+}
+.color2{
+
+   height: 15px;
+   width: 15px;
+   background: #58676B;
+   border-radius: 100%;
+   border: 1px solid white;
+   margin-left: -5px;
+
+}
+.color3{
+
+   height: 15px;
+   width: 15px;
+   background: #E5B781;
+   border-radius: 100%;
+   border: 1px solid white;
+   margin-left: -5px;
+
+}
+.color4{
+
+   height: 15px;
+   width: 15px;
+   background: #0F3141;
+   border-radius: 100%;
+   border: 1px solid white;
+   margin-left: -5px;
+
+}
+.allZColorZ{
+
+   display: flex;
+   align-items: center;
+
+
+}
+.Price{
+
+   display: flex;
+   align-items: center;
+   gap: 56px;
+   margin-top: -15px;
+
+}
+.cardContainerZ{
+   
+
+   display: flex;
+   align-items: center;
+   gap: 20px;
+   
+}
+.SellerProducts{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 30px;
+   background: white;
+
+
+}
+.storage-bg{
+
+   background: #E3E7E8;
+
+
+}
+.Decoration-bg{
+
+   background: #E2EBE0;
+
+    
+}
+.Lightings-bg{
+
+   background: #E8E8E3;
+
+
+}
+.table-bg{
+
+   background: #F5E7D6;
+
+
+}

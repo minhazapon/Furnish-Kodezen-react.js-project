@@ -1,5 +1,6 @@
 import BestProducts from "./home file/BestProducts";
 import HomeBanner from "./home file/HomeBanner";
+import SellerProducts from "./home file/SellerProducts";
 
 
 
@@ -10,6 +11,7 @@ const Home = () => {
 
             <HomeBanner></HomeBanner>
             <BestProducts></BestProducts>
+            <SellerProducts></SellerProducts>
             
         </div>
     );
