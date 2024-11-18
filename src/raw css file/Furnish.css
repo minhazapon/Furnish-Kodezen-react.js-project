@@ -410,4 +410,49 @@
    padding: 80px;
 
 }
+.pay-text{
+
+   font-size: 50px;
+
+}
+.CU-b{
+
+   background: #2C9289 ;
+   color: white;
+   border: 1px solid #2C9289 ;
+   font-size: 20px;
+   padding: 10px;
+
+}
+.VP{
+
+   color: white;
+   font-size: 20px;
+
+
+}
+.CV{
+   
+   display: flex;
+   align-items: center;
+   gap: 15px;
+
+}
+.lorem{
+   
+   margin-top: -20px;
+
+
+}
+.Pay-img{
+
+   background-image: url("https://img.freepik.com/premium-photo/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering_41470-4089.jpg?w=996");
+   background-size: cover;
+   background-repeat: no-repeat;
+   padding: 150px;
+   display: flex;
+   justify-content: end;
+
+
+}
 
