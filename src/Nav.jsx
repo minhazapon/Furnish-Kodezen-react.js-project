@@ -13,7 +13,7 @@ const Nav = () => {
                 <p className="navName  ">FURNISH</p>
                 </div>
                 <div className=" navAllButton ">
-                <NavLink><button className=" navAbout buttonHover   ">About us</button></NavLink>
+                <NavLink to='/AboutMother'><button className=" navAbout buttonHover">About us</button></NavLink>
                 <NavLink><button className=" navAbout buttonHover">Contact us</button></NavLink>
                 <button className=" navSign  buttonHover ">Sign In</button>
                 </div> 

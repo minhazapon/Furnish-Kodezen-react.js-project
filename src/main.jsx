@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
 import Root from './Root';
 import Home from './Home';
+import AboutMother from './about file/AboutMother';
 
 
 const router = createBrowserRouter([
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
       {
       path: "/",
       element: <Home></Home>  ,
+      },
+      {
+      path: "/AboutMother",
+      element: <AboutMother></AboutMother>   ,
       },
     ],
   },
