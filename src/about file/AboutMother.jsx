@@ -1,5 +1,6 @@
 import Clients from "../home file/Clients";
 import AboutUs from "./AboutUs";
+import WorldClass from "./WorldClass";
 
 
 
@@ -9,6 +10,7 @@ const AboutMother = () => {
         <div>
 
             <AboutUs></AboutUs>
+            <WorldClass></WorldClass>
             <Clients></Clients>
             
         </div>

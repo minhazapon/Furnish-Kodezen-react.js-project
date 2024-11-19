@@ -618,7 +618,76 @@
    gap: 100px;
 
 }
+.about-pic{
 
+   display: flex ;
+   justify-content: center;
+
+}
+.pic-border{
+
+   border-radius: 10px;
+
+}
+.WorldClassMain{
+
+   margin-top: 50px;
+   padding: 50px;
+   margin-bottom: 20px;
+ 
+
+}
+.WC-pic{
+
+   border-radius: 5px; 
+
+}
+.w1{
+
+   font-size: 60px;
+   margin-top: -4px;
+
+}
+.w-text{
+
+   color: gray;
+   /* margin-top: -15px; */
+ 
+
+}
+.w-text2{
+
+   color: gray;
+   margin-top: 20px;
+
+
+}
+.but-text{
+
+   color: gray;
+
+}
+.design-lines{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+}
+.WC-flex{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 80px;
+
+}
+.WC-all-text{
+    
+   
+
+
+}
 
 
 
