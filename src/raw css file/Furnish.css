@@ -570,7 +570,7 @@
 
 .AboutMain{
    
-   margin-top: 50px;
+   margin-top: 80px;
 
 
 }
@@ -629,6 +629,7 @@
 .pic-border{
 
    border-radius: 10px;
+  
 
 }
 .WorldClassMain{
@@ -715,7 +716,74 @@
 
 }
 
-
-
 /* ////about work */
 
+/* ///contact work */
+
+.ContactMap{
+
+   margin-top: 80px;
+
+}
+.Support-text{
+
+   font-size: 30px;
+   text-align: center;
+
+}
+.our-text{
+
+   font-size: 20px;
+   color: gray;
+   text-align: center;
+   margin-top: -8px;
+
+}
+.email-color{
+
+   color: #2C9289;
+
+}
+.SSP-CARD{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 90px;
+
+}
+.AddressInformation{
+
+   margin-top: 50px;
+   margin-bottom: 50px;
+   background: #0F3141;
+   color: white;
+   padding: 160px;
+
+}
+.locations-text{
+
+   font-size: 20px;
+   color: gray;
+
+}
+.store-text{
+
+   font-size: 25px;
+}
+.M-text{
+   
+   font-size: 25px;
+
+
+}
+.All-addInfo-card{
+
+   display: flex;
+   justify-content: center;
+   gap: 130px;
+
+}
+
+
+/* ///contact work */
