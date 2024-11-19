@@ -784,6 +784,42 @@
    gap: 130px;
 
 }
+.let-text{
+   
+   font-size: 35px;
+ 
+}
+.Hi-color{
+
+   color: #2C9289;
+
+}
+.email-title{
+
+   font-size: 18px; 
+   color: gray;
+   margin-top: -10px;
+
+}
+.FN{
+   
+   border: 1px solid rgba(128, 128, 128, 0.534);
+   border-radius: 5px;
+   height: 30px;
+   width: 200px;
+   padding: 5px;
+
+
+}
+.F-l{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+
+}
+
+
 
 
 /* ///contact work */

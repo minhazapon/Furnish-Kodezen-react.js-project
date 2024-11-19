@@ -1,4 +1,5 @@
 import AddressInformation from "./AddressInformation";
+import ContactForm from "./ContactForm";
 import ContactMap from "./ContactMap";
 
 
@@ -11,6 +12,7 @@ const ContactUs = () => {
 
             <ContactMap></ContactMap>
             <AddressInformation></AddressInformation>
+            <ContactForm></ContactForm>
             
         </div>
     );
