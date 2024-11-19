@@ -23,7 +23,7 @@ const Clients = () => {
             </div>
             </div>
             <div className=" Client-cardOne ">
-            <img className=" img-border " height="310px" width="220px" src="https://img.freepik.com/free-psd/man-with-thumb-up_1154-438.jpg?t=st=1731923018~exp=1731926618~hmac=af9ae6ad8cd9b349b750e867bed30c269911ef0d92e333ff9e0d3d31fea86ac6&w=740"
+            <img className=" img-border " height="310px" width="220px" src="https://img.freepik.com/free-photo/cheerful-bearded-man-busines-clothes-showing-thumb-up-looking-camera-gray_171337-11351.jpg?t=st=1731990396~exp=1731993996~hmac=9c2f09b78a621e93508bd9b9d4f316fb11ea3b694e89bf62c8d2744d1d991013&w=740"
             alt="" />
             <div className=" C-R ">
             <img height="30px" src="https://cdn-icons-png.flaticon.com/128/17399/17399932.png" alt="" /> 

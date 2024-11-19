@@ -14,7 +14,7 @@ const Nav = () => {
                 </div>
                 <div className=" navAllButton ">
                 <NavLink to='/AboutMother'><button className=" navAbout buttonHover">About us</button></NavLink>
-                <NavLink><button className=" navAbout buttonHover">Contact us</button></NavLink>
+                <NavLink to='/contact' ><button className=" navAbout buttonHover">Contact us</button></NavLink>
                 <button className=" navSign  buttonHover ">Sign In</button>
                 </div> 
             </div>
