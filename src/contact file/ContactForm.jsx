@@ -13,40 +13,52 @@ const ContactForm = () => {
 
                
 
-               <div>
+               <div className=" form-flex">
                
                  <form>
                     
-                    <div>
+                 <div className=" form-border ">
+                 <p className=" let-text ">Let’s level up your brand,<br></br> together</p>
+                 <p className=" email-title ">You can reach us anytime via <span className=" Hi-color ">hi@furnish.com</span></p>
+                 <div className=" F-l ">
+                 <div>
+                 <p>First name</p>
+                 <input className=" FN " type="text" placeholder="First name" name="firstName" required  />
+                 </div>
+                 <div>
+                 <p>Last name</p>
+                 <input className=" FN " type="text" placeholder="Last name" name="LastName" required />
+                 </div>
+                 </div>
+                 <div>
+                 <p>Email</p>
+                 <input className="form-email"  type="email" name="email" placeholder="Email" id="" required />
+                 </div>
+                 <div>
+                 <p>Phone number</p>
+                 <input className="form-email" type="number" name="number" placeholder="+8801950374409" id="" />
+                 </div>
+                 <div>
+                 <p>Message</p>
+                 <textarea className="form-message" name="textarea" placeholder="Leave us a message..." id=""></textarea>
+                 </div>
+                 {/* <div className=" F-l ">
+                   
+                 <div className=" ">
+                 <input className=" FN " type="text" placeholder="location" name="firstName" required  />
+                 </div>
+                 <div className=" button-flex  ">
+                  <input className=" form-button " type="submit" value="Get started" />
+                 </div>
 
-                     <p className=" let-text ">Let’s level up your brand,<br></br> together</p>
-                     <p className=" email-title ">You can reach us anytime via <span className=" Hi-color ">hi@furnish.com</span></p>
-
-                    
-                     <div className=" F-l ">
-                       
-                     <div>
-                      <p>First name</p>
-                      <input className=" FN " type="text" placeholder="First name" name="firstName" required  />
-                     </div>
-                     <div>
-                      <p>Last name</p>
-                      <input className=" FN " type="text" placeholder="Last name" name="LastName" required />
-                     </div>
+                 </div> */}
+                 
 
 
-                     </div>
+                </div>
 
 
-
-
-
-
-
-                    </div>
-
-
-                 </form>
+                </form>
               
                </div>
 
@@ -93,38 +105,10 @@ export default ContactForm;
 
 
 
+// <!-- HTML !-->
+// <button class="button-2" role="button">Button 2</button>
 
-
-// <div className=" all-contact ">
-// <div className=" Contact-Card ">
-// <form> 
-// <div>
-// <p className=" let-text ">Let’s level up your brand,<br></br> together</p>
-// <p className=" mail-text ">You can reach us anytime via <span className=" Hi-color ">hi@furnish.com</span></p>
-// <div className=" F-l">
-// <div>
-// <p className=" mail-title-text ">First name</p>
-// <input className=" FN-input " placeholder="FirstName" name="firstName" required type="text" />
-// </div>
-// <div>
-// <p className=" mail-title-text ">First name</p>
-// <input className=" FN-input " placeholder="LastName" name="LastName" required type="text" />
-// </div>
-// </div>
-// <div>
-// <div>
-// <p className=" mail-title-text ">Email</p> 
-// <input className="email-input" placeholder="Email" type="email" name="email" id="" />
-// </div>
-// <div>
-// <p className=" mail-title-text ">Phone number</p> 
-// <input className=" email-input " type="number" placeholder="+8801950374409" name="number" id="" />
-// </div>
-// <div>
-// <p className=" mail-title-text ">Message</p>
-// <textarea className="textarea" placeholder="Leave us a message..." name="text" id=""></textarea>
-// </div>
-// </div>
-// </div>
-// </form>
-// </div>
+// /* CSS */
+// .button-2 {
+  
+// }

@@ -784,6 +784,11 @@
    gap: 130px;
 
 }
+.ContactFormMain{
+
+    margin-bottom: 20px;
+
+}
 .let-text{
    
    font-size: 35px;
@@ -806,7 +811,7 @@
    border: 1px solid rgba(128, 128, 128, 0.534);
    border-radius: 5px;
    height: 30px;
-   width: 200px;
+   width: 100%;
    padding: 5px;
 
 
@@ -815,7 +820,55 @@
 
    display: flex;
    align-items: center;
-   gap: 10px;
+   gap: 30px;
+
+}
+.form-border{
+
+   border: 1px solid rgba(128, 128, 128, 0.507);
+   padding: 30px;
+
+}
+.form-flex{
+
+   display: flex;
+   justify-content: center;
+   background: white;
+    
+}
+.form-email{
+
+   height: 30px;
+   width: 100%;
+   padding: 5px;
+   border: 1px solid rgba(128, 128, 128, 0.534);
+   border-radius: 5px;
+
+}
+.form-message{
+
+   height: 70px;
+   width: 100%;
+   padding: 5px;
+   border: 1px solid rgba(128, 128, 128, 0.534);
+   border-radius: 5px;
+
+}
+.form-button{
+
+   height: 40px;
+   width: 250px;
+   margin-top: 10px;
+   background: #2C9289;
+   color: white;
+   border: 1px solid #2C9289 ;
+   cursor: pointer;
+   border-radius: 5px;
+
+}
+.button-flex{
+
+   display: flex;
 
 }
 
