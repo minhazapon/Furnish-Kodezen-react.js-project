@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import './raw css file/Furnish.css'
+import './raw css file/responsive.css'
 
 import {
   createBrowserRouter,

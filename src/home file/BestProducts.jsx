@@ -10,7 +10,8 @@ const BestProducts = () => {
         </div>
         {/* --------------------------------------- */}
         <div>
-        <div className=" ProductsCard ">
+        <div className=" ProductsCard products-res-card ">
+
         <div>
         <img src="https://cdn-icons-png.flaticon.com/128/1946/1946488.png" alt="" height="40px"  />
         <p className=" ProductText ">10 years of experience <br></br>
@@ -21,6 +22,8 @@ const BestProducts = () => {
         <img className=" iconImg " src="https://cdn-icons-png.flaticon.com/128/13726/13726822.png" alt=""  height="20px" />
         </div>
         </div>
+
+
         <div>
         <img src="https://cdn-icons-png.flaticon.com/128/657/657076.png" alt="" height="40px"  />
         <p className=" ProductText ">Afforable price with <br></br>
@@ -31,6 +34,8 @@ const BestProducts = () => {
         <img className=" iconImg " src="https://cdn-icons-png.flaticon.com/128/13726/13726822.png" alt=""  height="20px" />
         </div>
         </div>
+
+
         <div>
         <img src="https://cdn-icons-png.flaticon.com/128/9513/9513802.png" alt="" height="40px"  />
         <p className=" ProductText ">Bring your ideas into <br></br>
@@ -41,6 +46,9 @@ const BestProducts = () => {
         <img className=" iconImg " src="https://cdn-icons-png.flaticon.com/128/13726/13726822.png" alt=""  height="20px" />
         </div>
         </div>
+
+
+
         </div>
         </div>
         </div>
