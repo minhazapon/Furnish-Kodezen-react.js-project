@@ -388,7 +388,7 @@
 
    display: flex;
    align-items: center;
-   gap: 10px;
+   gap: 30px;
 
 
 }
@@ -407,7 +407,7 @@
 
    display: flex;
    justify-content: center;
-   padding: 80px;
+   padding: 60px;
 
 }
 .pay-text{
@@ -682,13 +682,36 @@
    gap: 80px;
 
 }
-.WC-all-text{
-    
+.team-text{
+
+   font-size: 40px;
+
+}
+.olivia-name{
+
+   font-size: 20px;
+
+}
+.FC-color{
    
+   color: #2C9289;
+
+}
+.all-special-team-card{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
 
 
 }
+.SpecialTeam{
 
+   display: flex;
+   justify-content: center;
+   padding: 30px;
+
+}
 
 
 
