@@ -2,7 +2,10 @@ import { NavLink } from "react-router-dom";
 
 
 
+
 const Nav = () => {
+
+
     return (
         <div>
             <div className=" navbar ">
@@ -17,6 +20,12 @@ const Nav = () => {
                 <NavLink to='/contact' ><button className=" navAbout buttonHover">Contact us</button></NavLink>
                 <button className=" navSign  buttonHover ">Sign In</button>
                 </div> 
+
+               
+                
+
+
+
             </div>
         </div>
     );
