@@ -37,6 +37,21 @@
        flex-direction: column;
 
     }
+    .NumberContainer{
+
+       flex-direction: column;
+
+    }
+    .a-pic-text{
+
+       flex-direction: column;
+
+    }
+    .all-special-team-card{
+
+      flex-direction: column;
+
+    }
   
     
 }
