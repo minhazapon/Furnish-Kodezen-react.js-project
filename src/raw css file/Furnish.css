@@ -413,6 +413,7 @@
 .pay-text{
 
    font-size: 50px;
+   color: white;
 
 }
 .CU-b{
@@ -442,7 +443,7 @@
    
    margin-top: -20px;
    font-size: 18px;
-   color: white;
+   color:   white;
 
 
 }
@@ -451,7 +452,8 @@
    background-image: url("https://img.freepik.com/premium-photo/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering_41470-4089.jpg?w=996");
    background-size: cover;
    background-repeat: no-repeat;
-   padding: 150px;
+   height: auto;
+   padding: 50px;
    display: flex;
    justify-content: end;
 
