@@ -7,7 +7,7 @@ const HomeBanner = () => {
     
     return (
         <div className=" bannerAll ">
-            <div className="  ">
+            <div className="  all-banner-text ">
                <p className=" bannerText ExText ">Explore any kind of furnitures</p>
                <p className=" bannerText DiscoverText ">Discover Your<br></br>
                Dream Furniture</p>
