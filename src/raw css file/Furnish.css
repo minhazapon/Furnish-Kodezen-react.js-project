@@ -460,7 +460,7 @@
    background-image: url("https://img.freepik.com/premium-photo/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering_41470-4089.jpg?w=996");
    background-size: cover;
    background-repeat: no-repeat;
-   height: auto;
+   height: 600px;
    padding: 50px;
    display: flex;
    justify-content: end;
