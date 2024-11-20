@@ -52,6 +52,28 @@
       flex-direction: column;
 
     }
+    .SSP-CARD{
+
+      flex-direction: column;
+
+    }
+    .All-addInfo-card{
+
+      flex-direction: column;
+
+    }
+    .contact-flex{
+
+      flex-direction: column;
+      margin-left: 20px;
+      margin-right: 20px;
+
+    }
+    .form-photo{
+       
+       width: 100%;
+
+    }
    
     
 }

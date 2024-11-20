@@ -42,7 +42,10 @@ const ContactForm = () => {
     return (
 
         <div className=" ContactFormMain ">
+
         <div className=" contact-flex ">
+
+
         <div className=" form-flex">
         <form onSubmit={onSubmit} >
         <div className=" form-border ">
@@ -76,10 +79,16 @@ const ContactForm = () => {
         </div>
         </form>
         </div>
+
+
         <div>
-        <img className="   " height="743px" width="500px" src="https://s3-alpha-sig.figma.com/img/dbd9/513a/967e27af0d44a8e92433b5c07da67061?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TXRVdFfSOWWYZN2XBb58UptsUN7hCbsOxsusrftc~CQMbzKkIPQfNmgDLlDhtWHkURMxQ79n~wNbxNZ3rT1OmN1xgrSox8FGfYcNV6jvtmkDEF5vE6ej-5HLT0-5G~wvvrVboKzPZand9yuuiDScqRYJ8NBWQmcjZmo6STrCMk-WgAGaFDMvl2eguJOKk6WLqTMXz3WmZZ~i4J3dAfaxOqJh-iK6TVC0bHpBO4CRnEW-ptz9TjeKHokSYcm5LQeSsoNrKQEWiFCwrLAGQg3b92BrDIPDGuQwyrnL9QSN7ZgOndZe9Ftka94iHhC-dY4wq6VmOQXESXB166WAZztXGg__" alt="" />
+        <img className="  form-photo  " height="743px" width="500px" src="https://s3-alpha-sig.figma.com/img/dbd9/513a/967e27af0d44a8e92433b5c07da67061?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TXRVdFfSOWWYZN2XBb58UptsUN7hCbsOxsusrftc~CQMbzKkIPQfNmgDLlDhtWHkURMxQ79n~wNbxNZ3rT1OmN1xgrSox8FGfYcNV6jvtmkDEF5vE6ej-5HLT0-5G~wvvrVboKzPZand9yuuiDScqRYJ8NBWQmcjZmo6STrCMk-WgAGaFDMvl2eguJOKk6WLqTMXz3WmZZ~i4J3dAfaxOqJh-iK6TVC0bHpBO4CRnEW-ptz9TjeKHokSYcm5LQeSsoNrKQEWiFCwrLAGQg3b92BrDIPDGuQwyrnL9QSN7ZgOndZe9Ftka94iHhC-dY4wq6VmOQXESXB166WAZztXGg__" alt="" />
         </div>
+
+
         </div>
+
+
         </div>
 
 
