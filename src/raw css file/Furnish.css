@@ -36,7 +36,8 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-   padding: 25px;
+   gap: 10px;
+   padding: 15px;
    /* background: rgba(234, 246, 248, 0.082); */
    box-shadow:  0 3px 3px 0 rgba(99, 99, 99, 0.19);
 
@@ -45,7 +46,7 @@
 
    display: flex;
    align-items: center;
-   gap: 10px;
+   gap: 5px;
 
 }
 .buttonHover:hover{
