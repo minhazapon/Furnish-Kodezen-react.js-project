@@ -10,7 +10,7 @@ const Nav = () => {
                 <NavLink to='/'>
                 <img className=" " src="https://cdn-icons-png.flaticon.com/128/5234/5234853.png" alt="" height="50px" width="60px" /> 
                 </NavLink>
-                <p className="navName  ">FURNISH</p>
+                <p className="navName   ">FURNISH</p>
                 </div>
                 <div className=" navAllButton ">
                 <NavLink to='/AboutMother'><button className=" navAbout buttonHover">About us</button></NavLink>
