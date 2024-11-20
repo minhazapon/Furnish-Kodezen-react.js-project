@@ -1,6 +1,6 @@
 
 
-@media screen and (max-width:485px) {
+@media screen and (max-width:576px) {
 
     .ProductsCard{
 
@@ -162,7 +162,7 @@
 /* for max */
 
 
-@media screen and (min-width:485px) and (max-width:960px) {
+@media screen and (min-width:576px) and (max-width:960px) {
 
    .ProductsCard{
 
