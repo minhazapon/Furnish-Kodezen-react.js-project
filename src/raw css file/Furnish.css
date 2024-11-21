@@ -388,7 +388,7 @@
    display: flex;
    align-items: center;
    gap: 30px;
-   background: #d0f3f3;
+   background: #d0f3f3ab;
    padding: 16px;
    border-radius: 10px;
 
@@ -935,4 +935,12 @@
     margin-right: 25px;
 
 }
+.icon-flex{
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
 

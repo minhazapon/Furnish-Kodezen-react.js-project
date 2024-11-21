@@ -1,168 +1,6 @@
 
 
-@media screen and (max-width:576px) {
-
-    .ProductsCard{
-
-      flex-direction: column;
-
-    }
-    .cardContainerZ{
-
-       flex-direction: column;
-
-    }
-    .AllProjects{
-
-       flex-direction: column;
-
-    }
-    .all-client-card{
-
-       flex-direction: column;
-
-    }
-    .Client-cardOne{
-
-       flex-direction: column;
-
-    }
-    .Footer-details{
-
-       flex-direction: column;
-
-    }
-    .all-footer-details{
-
-       flex-direction: column;
-
-    }
-    .NumberContainer{
-
-       flex-direction: column;
-
-    }
-    .a-pic-text{
-
-       flex-direction: column;
-
-    }
-    .all-special-team-card{
-
-      flex-direction: column;
-
-    }
-    .SSP-CARD{
-
-      flex-direction: column;
-
-    }
-    .All-addInfo-card{
-
-      flex-direction: column;
-
-    }
-    .contact-flex{
-
-      flex-direction: column;
-      margin-left: 20px;
-      margin-right: 20px;
-
-    }
-    .form-photo{
-       
-       width: 100%;
-
-    }
-    .WorldClassMain{
-
-       margin: 20px;
-
-    }
-    .WC-flex{
-
-       flex-direction: column;
-
-    }
-    .WC-pic{
-
-       width: 100%;
-       height: auto;
-
-    }
-    .pic-border{
-          
-      width: 100%;
-      height: auto;
-
-    }
-    .bannerAll{
-
-      width: fit-content;
-      height: 200px;
-      /* margin-left: 20px;
-      margin-right: 10px; */
-
-    }
-    .DiscoverText{
-
-       font-size: 51px;
-       
-
-    }
-    .all-banner-text{
-        margin-top: -30px;
-    }
-    .RoomPic{
-     
-      height: 250px;
-      width: 100%;
-
-    }
-    .RoomText{
-
-      font-size: 19px;
-
-    }
-    .Pay-img{
-     
-      height: auto;
-      width: fit-content;
-
-
-    }
-    .pay-text{
-
-      font-size: 30px;
-
-    }
-    .lorem{
-     
-      font-size: 15px;
-
-    }
-    .ExText{
-     
-      font-size: 14px;
-
-    }
-    .bannerButton{
-
-       font-size: 15px;
-
-    }
-
- 
-
-    
-    
-}
-
-
-/* for max */
-
-
-@media screen and (min-width:576px) and (max-width:960px) {
+@media screen and (mix-width:576px) {
 
    .ProductsCard{
 
@@ -313,7 +151,203 @@
        font-size: 15px;
 
     }
+     /* ///responsiv-bar/// */
 
-  
+   /* .bar-hidden{
+     
+      display: block;
+
+   }
+     */
+
+ 
+    
+
+ 
+
+    
     
 }
+
+
+/* for max */
+
+
+@media screen and (max-width:576px) and (max-width:960px)  {
+
+   .ProductsCard{
+
+      flex-direction: column;
+
+    }
+    .cardContainerZ{
+
+       flex-direction: column;
+
+    }
+    .AllProjects{
+
+       flex-direction: column;
+
+    }
+    .all-client-card{
+
+       flex-direction: column;
+
+    }
+    .Client-cardOne{
+
+       flex-direction: column;
+
+    }
+    .Footer-details{
+
+       flex-direction: column;
+
+    }
+    .all-footer-details{
+
+       flex-direction: column;
+
+    }
+    .NumberContainer{
+
+       flex-direction: column;
+
+    }
+    .a-pic-text{
+
+       flex-direction: column;
+
+    }
+    .all-special-team-card{
+
+      flex-direction: column;
+
+    }
+    .SSP-CARD{
+
+      flex-direction: column;
+
+    }
+    .All-addInfo-card{
+
+      flex-direction: column;
+
+    }
+    .contact-flex{
+
+      flex-direction: column;
+      margin-left: 20px;
+      margin-right: 20px;
+
+    }
+    .form-photo{
+       
+       width: 100%;
+
+    }
+    .WorldClassMain{
+
+       margin: 20px;
+
+    }
+    .WC-flex{
+
+       flex-direction: column;
+
+    }
+    .WC-pic{
+
+       width: 100%;
+       height: auto;
+
+    }
+    .pic-border{
+          
+      width: 100%;
+      height: auto;
+
+    }
+    .bannerAll{
+
+      width: fit-content;
+      height: 200px;
+      /* margin-left: 20px;
+      margin-right: 10px; */
+
+    }
+    .DiscoverText{
+
+       font-size: 51px;
+       
+
+    }
+    .all-banner-text{
+        margin-top: -30px;
+    }
+    .RoomPic{
+     
+      height: 250px;
+      width: 100%;
+
+    }
+    .RoomText{
+
+      font-size: 19px;
+
+    }
+    .Pay-img{
+     
+      height: auto;
+      width: fit-content;
+
+
+    }
+    .pay-text{
+
+      font-size: 30px;
+
+    }
+    .lorem{
+     
+      font-size: 15px;
+
+    }
+    .ExText{
+     
+      font-size: 14px;
+
+    }
+    .bannerButton{
+
+       font-size: 15px;
+
+    }
+      /* ///responsiv-bar/// */
+
+   /* .bar-hidden{
+     
+      position: static;
+
+   } */
+    
+    
+}
+
+
+@media screen  and (max-width:1600px) {
+
+   /* ///responsiv-bar/// */
+
+   /* .bar-hidden{
+     
+      display: none;
+
+   } */
+
+
+}   
+
+
+   
