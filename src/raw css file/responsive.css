@@ -1,6 +1,6 @@
 
 
-@media screen and (mix-width:576px) {
+@media screen and (max-width:576px) {
 
    .ProductsCard{
 
@@ -60,6 +60,7 @@
     .All-addInfo-card{
 
       flex-direction: column;
+      gap: 40px;
 
     }
     .contact-flex{
@@ -151,20 +152,18 @@
        font-size: 15px;
 
     }
-     /* ///responsiv-bar/// */
+    .NumberContainer{
 
-   /* .bar-hidden{
-     
-      display: block;
+        gap: 5px;
 
-   }
-     */
+    }
+    .SSP-CARD{
 
- 
+        gap: 10px;
+
+    }
+
     
-
- 
-
     
     
 }
@@ -173,7 +172,7 @@
 /* for max */
 
 
-@media screen and (max-width:576px) and (max-width:960px)  {
+@media screen and (min-width:576px) and (max-width:960px)  {
 
    .ProductsCard{
 
@@ -324,30 +323,22 @@
        font-size: 15px;
 
     }
-      /* ///responsiv-bar/// */
+    .NumberContainer{
 
-   /* .bar-hidden{
-     
-      position: static;
+      gap: 5px;
 
-   } */
+    }
+    .SSP-CARD{
+
+      gap: 10px;
+
+    }
+   
     
     
 }
 
 
-@media screen  and (max-width:1600px) {
-
-   /* ///responsiv-bar/// */
-
-   /* .bar-hidden{
-     
-      display: none;
-
-   } */
-
-
-}   
 
 
    
