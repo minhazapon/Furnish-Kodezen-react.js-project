@@ -2,4 +2,4 @@
 
 #Development Tools: React, React icons, Flaticon, Sweet alert
 
-#Live_link: https://furnish-kzn.netlify.app
+#Live_link: https://furnish-beauty.netlify.app
