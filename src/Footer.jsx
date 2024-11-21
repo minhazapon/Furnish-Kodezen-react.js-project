@@ -23,24 +23,33 @@ const Footer = () => {
             Dream Furniture</p>
             </div>
             <div className=" Address ">
+
             <div className=" Footer-location ">
             <p><CiLocationOn className=" location-icon "></CiLocationOn></p>
             <p className="">Address</p>
             </div>
+
             <div>
             <p className=" footer-Address ">7319 Wagon Lane
             Bradenton, FL 34203</p>
             </div>
+
             </div>
+
             <div className=" Address contact ">
+
             <div className=" Footer-location ">
             <p><MdOutlineMailOutline className=" location-icon "></MdOutlineMailOutline></p>
             <p className="">Contact</p>
             </div>
+
+
             <div>
             <p className=" footer-Address ">hellosansbrothers@gmail.com</p>
             </div>
+
             </div>
+
             </div>
             {/* ------------------------------------------------------------- */}
             <div className=" all-footer-details">
@@ -73,15 +82,18 @@ const Footer = () => {
 
 
             <div className=" footer-last ">
+
             <div>
-            <p>Copyright © Furnishhome. All Rights Reserved.</p>
+            <p className=" copyright-text ">Copyright © Furnishhome. All Rights Reserved.</p>
             </div>
+
             <div className=" all-icon ">
             <p><FaFacebook className=" social-icon "></FaFacebook></p>
             <p><FaSquareInstagram className=" social-icon "></FaSquareInstagram></p>
             <p><FaLinkedin className=" social-icon "></FaLinkedin></p>
             <p><FaTwitter className=" social-icon "></FaTwitter></p>
             </div>
+
             </div>
 
             

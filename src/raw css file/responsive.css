@@ -162,6 +162,28 @@
         gap: 10px;
 
     }
+    .all-footer-details{
+
+       gap: 5px;
+
+    }
+    .copyright-text{
+        
+       font-size: 10px;
+
+    }
+    .footer-Address{
+
+       font-size: 13px;
+
+    }
+    .form-button{
+      
+       width: 160px;
+    
+
+    }
+  
 
     
     
@@ -333,6 +355,28 @@
       gap: 10px;
 
     }
+    .all-footer-details{
+
+      gap: 5px;
+
+   }
+   .copyright-text{
+       
+      font-size: 10px;
+
+   }
+   .footer-Address{
+
+      font-size: 13px;
+
+   }
+   .form-button{
+      
+      width: 160px;
+   
+
+   }
+ 
    
     
     
