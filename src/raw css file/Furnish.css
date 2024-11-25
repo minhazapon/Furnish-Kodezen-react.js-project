@@ -374,26 +374,39 @@
 }
 .KITCHENText{
 
-   font-size: 20px;
-   color: white;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 31.25px;
+   font-size: 24px;
+   color: #FFFFFF;
+
 
 }
 .AI-text{
 
-   color: gray; 
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 28px;
+   color: #B6B9BF;
+ 
+
 
 }
 .AllProjects{
    
    display: flex;
    align-items: center;
-   gap: 20px;
-
+   gap: 40px;
+  
 
 }
 .LatesProject{
    
-   padding: 30px;
+   padding: 20px;
    display: flex;
    justify-content: center;
    background: #0F3141;
@@ -401,7 +414,15 @@
 }
 .lp-title{
 
-   color: white;
+   
+   color: #FFFFFF ;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 78.12px;
+   font-size: 60px;
+   letter-spacing: -3%;
 }
 .hv1:hover{
    

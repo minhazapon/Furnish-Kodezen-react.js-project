@@ -5,9 +5,9 @@ const LatesProject = () => {
     return (
 
         <div className=" LatesProject" >
+        <div className="">
         <div>
-        <div>
-        <p className=" SP-title lp-title ">Our Lates Projects</p>
+        <p className="  lp-title ">Our Lates Projects</p>
         </div>
         {/* ----------------------------------------------   */}
         <div className=" AllProjects ">
