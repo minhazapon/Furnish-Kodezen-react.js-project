@@ -117,18 +117,42 @@
 }
 .BestText{
 
-   font-size: 40px; 
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 62px;
+   font-size: 48px;
+   letter-spacing: -3%;
+   color: #171717;
 
 }
 .ProductText{
 
-   font-size: 30px;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 34px;
+   font-size: 24px;
+   letter-spacing: -2%;
+   color: #171717;
+
+
    
 
 }
 .ProPara{
 
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
    font-size: 18px;
+   line-height: 28px;
+   color: #4F4F4F ;
+   letter-spacing: 1%;
+
 
 }
 .Seetext{
@@ -140,12 +164,22 @@
 }
 .see{
   
-   font-size: 20px;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   font-size: 14px;
+   line-height: 27px;
+   letter-spacing: 1%;
+   color: #2C9289;
  
 }
-.iconImg{
+.green-arrow{
 
    margin-bottom: -5px;
+   height: 20px;
+   width: 20px;
+   color: #2C9289;
 
 }
 .ProductsCard{
@@ -159,7 +193,8 @@
    display: flex;
    justify-content: center;
    background: #F3FBFB;
-   padding: 30px;
+   padding: 50px;
+  
 
 }
 .SP-title{
@@ -947,6 +982,20 @@
 .Address{
    
    display: flex;
+
+}
+.P-icons{
+
+   color: #2C9289;
+   height: 50px;
+   width: 50px;
+
+}
+.b-p-margin{
+
+   /* margin-left:  10px;
+   margin-right: 10px; */
+  
 
 }
 
