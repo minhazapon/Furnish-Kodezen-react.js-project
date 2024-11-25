@@ -18,7 +18,7 @@ const Nav = () => {
         <p className="navName   ">FURNISH</p>
         </div>
         <div className=" navAllButton nav-margin-right " >
-        <NavLink to='/AboutMother'><button className=" navAbout font-dm-sans buttonHover">About us</button></NavLink>
+        <NavLink to='/AboutMother'><button className=" navAbout font-dm-sans buttonHover">About Us</button></NavLink>
         <NavLink to='/contact' ><button className=" navAbout font-dm-sans buttonHover">Contact Us</button></NavLink>
         <div className=" text-sign ">
         <button className=" navSign dm-sans  buttonHover ">Sign In</button>
