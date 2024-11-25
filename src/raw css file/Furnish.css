@@ -68,11 +68,6 @@
 }
 .bannerButton{
 
-   background: #2C9289 ;
-   color: white;
-   border: 3px solid #2C9289 ;
-   font-size: 20px;
-   padding: 10px;
    
    
 
@@ -86,16 +81,25 @@
 }
 .DiscoverText{
    
-   font-size: 70px; 
-   margin-top: -18px;
-
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 88px;
+  line-height: 94px;
+  margin-top: -20px;
+  color: #171717 ;
 
 }
 .ExText{
 
-   font-size: 18px;
-   color: gray;
-   
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500; 
+  font-style: normal;
+  color: #636363;
+  line-height: 30px;
+
 
 }
 .all-banner-text{
