@@ -15,8 +15,6 @@ const SellerProducts = () => {
         {/* ----------------------------------------------- */}
         <div>
         <div className=" cardContainerZ ">  
-
-
         <div className=" cardOne ">
         <img className=" chair-bg hv1 " src="https://s3-alpha-sig.figma.com/img/9612/45c0/3f3afb74eb72bc34fe269b77b2f3ba39?Expires=1733097600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oKyTfrCJqcsIAfMrfaFVFB~aaVa9SSqOlBYwQbslQ7rMXnFkIGz0izV0GavuBiOvbg5SgMIO8eG2t861ISzfJ4gLuwIse0Um5msq2CszojbADEdSqcnL77i-9wSuaAZ1X7zzEHD5XUTQXjQ-vfENv1QKZ0WiQ9A3MGnKVdABDeOyDu5R~A85IF9Agz~Ovx2jps9uY6ZyCIdRgwefp-MLhbn4YbGe7DgGLWt2eSjXwBwzTw6AnyD0cjxdpf~DZGSMfgyO1JGpvufFl2I5QTm7YAsNSm28snSvyXMDTJ2Oj8MU6mOGV5NZ40tji6zUMveTH14Bgc2t7HgpzFP-SmC9Yw__" 
         alt="" height="220px" />
