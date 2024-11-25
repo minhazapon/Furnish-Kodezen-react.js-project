@@ -6,7 +6,6 @@ const WorldClass = () => {
 
     return (
         <div className=" WorldClassMain ">
-
         <div className=" WC-flex ">
                
             <div className=" about-pic-world ">

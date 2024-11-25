@@ -66,12 +66,7 @@
    text-align: center;  
 
 }
-.bannerButton{
 
-   
-   
-
-}
 .BannerB2{
 
    display: flex;
@@ -593,6 +588,9 @@
 .AboutMain{
    
    margin-top: 80px;
+   margin-left:  95px;
+   margin-right: 95px;
+   
 
 
 
@@ -647,8 +645,8 @@
 
    display: flex ;
    justify-content: center;
-   margin-left: 40px;
-   margin-right: 40px;
+   /* margin-left: 40px;
+   margin-right: 40px; */
 
 }
 .about-pic-world{
@@ -657,23 +655,15 @@
    justify-content: center;
 
 }
-.pic-border{
 
-   border-radius: 10px;
-  
-
-}
 .WorldClassMain{
 
    margin-top: 50px;
-   padding: 50px;
+   /* padding: 50px; */
    margin-bottom: 20px;
+   margin-left: 95px;
+   margin-right: 95px;
  
-
-}
-.WC-pic{
-
-   border-radius: 5px; 
 
 }
 .w1{
@@ -754,6 +744,13 @@
 .ContactMap{
 
    margin-top: 80px;
+   margin-left:  3px;
+   margin-right: 3px;
+
+}
+.map-border{
+
+   border: 1px solid rgba(128, 128, 128, 0.068);
 
 }
 .Support-text{
@@ -926,13 +923,7 @@
     margin-right: 30px;
 
 }
-.contact-text-margin{
 
-   margin-left: 40px;
-   margin-right: 40px;
- 
-
-}
 .map-margin{
 
    margin-left: 100px;
