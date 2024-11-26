@@ -562,8 +562,16 @@
 }
 .pay-text{
 
-   font-size: 50px;
-   color: white;
+ 
+   font-size: 60px;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 72px;
+   letter-spacing: -3%;
+   color: #FFFFFF ;
+
 
 }
 .CU-b{
@@ -592,21 +600,34 @@
 .lorem{
    
    margin-top: -20px;
-   font-size: 18px;
-   color:   white;
+   font-size: 20px;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 30px;
+   letter-spacing: 1%;
+   color: #acacac ;
+
 
 
 }
 .Pay-img{
 
-   background-image: url("https://img.freepik.com/premium-photo/mock-up-living-room-interior-with-armchair-empty-dark-blue-wall-wall-background-3d-rendering_41470-4089.jpg?w=996");
+   background-image: url("https://img.freepik.com/premium-photo/shadow-dark-halftone-pattern_87720-267250.jpg?w=826");
    background-size: cover;
    background-repeat: no-repeat;
-   height: 600px;
+   height: 500px;
    padding: 50px;
    display: flex;
-   justify-content: end;
+   justify-content: flex-start;
 
+
+
+}
+.pay-margin{
+
+   margin-left: 48px;
 
 }
 
