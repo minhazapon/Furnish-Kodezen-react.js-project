@@ -941,27 +941,55 @@
 }
 .w1{
 
-   font-size: 60px;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   font-size: 48px;
+   line-height: 62.4px;
+   /* text-align: center; */
    margin-top: -4px;
+   color: #171717;
+
+   
 
 }
 .w-text{
 
-   color: gray;
-   /* margin-top: -15px; */
+   color: #4F4F4F;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 13px;
+   /* line-height: 24px;  */
+   margin-top: -15px;
  
 
 }
 .w-text2{
 
-   color: gray;
+   color: #4F4F4F;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 13px;
+   /* line-height: 24px;  */
    margin-top: 20px;
 
 
 }
 .but-text{
 
-   color: gray;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #4F4F4F;
+
 
 }
 .design-lines{
@@ -976,7 +1004,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
-   gap: 80px;
+   gap: 40px;
 
 }
 .team-text{
