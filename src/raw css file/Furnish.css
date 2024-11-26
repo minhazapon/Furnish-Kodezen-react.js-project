@@ -148,7 +148,7 @@
    font-optical-sizing: auto;
    font-weight: 400;
    font-style: normal;
-   font-size: 18px;
+   font-size: 16px;
    line-height: 28px;
    color: #4F4F4F ;
    letter-spacing: 1%;
@@ -185,7 +185,7 @@
 .ProductsCard{
 
    display: flex;
-   gap: 25px;
+   gap: 40px;
 
 }
 .BPCONTAINER{
@@ -194,6 +194,7 @@
    justify-content: center;
    background: #F3FBFB;
    padding: 50px;
+  
   
 
 }
@@ -1056,9 +1057,9 @@
 }
 .b-p-margin{
 
-   /* margin-left:  10px;
-   margin-right: 10px; */
-  
+   margin-left:  46px;
+   margin-right: 46px;
+
 
 }
 
