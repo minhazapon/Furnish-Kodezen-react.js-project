@@ -224,6 +224,27 @@
        font-size: 10px;
 
     }
+    .DiscoverText{
+
+       font-size: 45px;
+       line-height: 50px;
+   
+    }
+    .all-banner-text{
+
+       margin-top: 10px;
+
+    }
+    .bannerAll{
+
+      margin-left: 10px;
+      /* margin-right: 5px; */
+      margin-bottom: 5px;
+      margin-top: 100px;
+      border-radius: 10px;
+
+    }
+    
   
 
     
@@ -422,6 +443,62 @@
       gap: 10px;
       
    }
+   .nav-margin-left{
+
+      margin-left: 5px;
+
+   }
+   .SP-title{
+
+      font-size: 30px;
+
+   }
+   .lp-title{
+
+      font-size: 30px;
+      text-align: center;
+
+   }
+   .res-icon{
+
+      height: 30px;
+      width:  35px;
+
+   }
+   .nav-margin-right{
+
+      margin-right: 5px;
+   }
+   .navName{
+      
+      font-size: 16px;
+
+   }
+   .navAbout{
+
+      font-size: 10px;
+
+   }
+   .DiscoverText{
+
+      font-size: 45px;
+      line-height: 50px;
+  
+   }
+   .all-banner-text{
+
+      margin-top: 10px;
+
+   }
+   .bannerAll{
+
+     margin-left: 10px;
+     margin-bottom: 5px;
+     margin-top: 100px;
+     border-radius: 10px;
+
+   }
+   
  
  
    
