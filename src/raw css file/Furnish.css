@@ -1040,7 +1040,7 @@
    font-size: 18px;
    line-height: 28px;
    color: #2C9289;
-
+ 
 
 }
 .all-special-team-card{
@@ -1078,14 +1078,28 @@
 }
 .Support-text{
 
-   font-size: 30px;
-   text-align: center;
 
+   text-align: center;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   font-size: 20px;
+   line-height: 30px;
+   color: #101828;
+
+
+ 
 }
 .our-text{
 
-   font-size: 20px;
-   color: gray;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #4F4F4F;
    text-align: center;
    margin-top: -8px;
 
