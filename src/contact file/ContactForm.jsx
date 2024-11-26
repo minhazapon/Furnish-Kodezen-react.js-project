@@ -36,7 +36,7 @@ const ContactForm = () => {
       })
       setResult(data.message);
     }
-  };
+    };
 
 
     return (
