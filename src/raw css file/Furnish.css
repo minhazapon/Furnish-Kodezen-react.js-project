@@ -837,18 +837,34 @@
 
    color: #2C9289;
    font-size: 16px;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   line-height: 24px;
+
 
 }
 .C2{
 
-   font-size: 60px;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   font-size: 48px;
+   line-height: 60px;
    margin-top: -10px;
 
 }
 .C3{
 
-   color: gray;
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
    font-size: 20px;
+   line-height: 30px;
+   color: #4F4F4F;
    margin-top: -30px;
 
 }
