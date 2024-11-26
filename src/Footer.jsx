@@ -15,7 +15,7 @@ const Footer = () => {
             <div className=" Footer-details ">
             <div>
             <div className=" footer-L-N ">
-            <img height="60px" width="60px" src="https://cdn-icons-png.flaticon.com/128/5234/5234853.png" alt="" />
+            <img height="50px" width="55px" src="https://cdn-icons-png.flaticon.com/128/5234/5234853.png" alt="" />
             <p className=" footer-name ">FURNISH</p>
             </div>
             <div>
@@ -26,7 +26,7 @@ const Footer = () => {
 
             <div className=" Footer-location ">
             <p><CiLocationOn className=" location-icon "></CiLocationOn></p>
-            <p className="">Address</p>
+            <p className=" f-address">Address</p>
             </div>
 
             <div>
@@ -40,7 +40,7 @@ const Footer = () => {
 
             <div className=" Footer-location ">
             <p><MdOutlineMailOutline className=" location-icon "></MdOutlineMailOutline></p>
-            <p className="">Contact</p>
+            <p className=" f-address">Contact</p>
             </div>
 
 
