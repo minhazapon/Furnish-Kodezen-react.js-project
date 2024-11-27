@@ -922,6 +922,11 @@
    margin-right: 40px; */
 
 }
+.pic-border{
+
+   border-radius: 12px;
+
+}
 .about-pic-world{
 
    display: flex ;
