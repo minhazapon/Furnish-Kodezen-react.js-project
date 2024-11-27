@@ -295,6 +295,59 @@
       line-height: 10px;
 
     }
+    .about-header-text{
+
+      margin-left: 10px;
+      margin-right: 10px;
+
+    }
+    .C2{
+
+      font-size: 20px;
+   
+    }
+    .C3{
+
+      font-size: 15px;
+      line-height: 15px;
+
+    }
+    .AboutMain{
+
+      margin-left: 30px;
+      margin-right: 30px;
+
+    }
+    .numText{
+
+      font-size: 40px;
+
+    }
+    .num2text{
+
+      font-size: 10px;
+
+    }
+    .WorldClassMain{
+
+      margin-left:  60px;
+      margin-right: 60px;
+
+    }
+    .w1{
+
+      font-size: 30px;
+      line-height: 30px;
+
+    }
+    .WC-pic{
+
+      height: auto;
+      width: 350px;
+      border-radius: 10px;
+
+    }
+
     
   
 
