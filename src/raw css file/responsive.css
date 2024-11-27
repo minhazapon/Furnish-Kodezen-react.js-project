@@ -367,6 +367,72 @@
        margin-right: 30px;
 
     }
+    .ContactFormMain{
+
+       margin-left:  30px;
+       margin-right: 30px;
+
+    }
+    .F-l{
+       
+       flex-direction: column;
+
+    }
+    .form-email{
+      
+       width: 240px;
+
+
+    }
+    .form-message{
+
+       width: 240px;
+
+    }
+    .let-text{
+      
+       font-size: 20px;
+       line-height: 20px;
+
+    }
+    .email-title{
+      
+      font-size: 10px;
+      line-height: 20px;
+
+    }
+    .form-flex{
+
+       width: 300px;
+       height: 850px;
+
+    }
+    .form-photo{
+      
+      width: 362px;
+
+    }
+    .form-button{
+
+      width: 271px;
+
+    }
+    .store-text{
+      
+       line-height: 20px;
+       
+    }
+    .find-text{
+       
+       line-height: 20px;
+
+    }
+    .locations-text1{
+
+       line-height: 16px;
+
+    }
+
 
     
   
@@ -622,6 +688,195 @@
      border-radius: 10px;
 
    }
+   .BestText{
+
+      font-size: 25px;
+      line-height: 25px;
+     
+
+    }
+    .RoomText{
+
+      font-size: 20px;
+      line-height: 25px;
+
+    }
+    .BestText2{
+
+      font-size: 30px;
+
+    }
+    .pay-text{
+
+      font-size: 18px;
+      line-height: 18px;
+
+    }
+    .lorem{
+
+      font-size: 15px;
+      line-height: 15px;
+      margin-top: 10px;
+      font-weight: 300;
+      
+    }
+    .CU-b{
+
+      font-size: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .VP{
+
+      font-size: 10px;
+      
+    }
+    .footer-Address{
+
+      font-size: 10px;
+      line-height: 10px;
+
+    }
+    .about-header-text{
+
+      margin-left: 10px;
+      margin-right: 10px;
+
+    }
+    .C2{
+
+      font-size: 20px;
+   
+    }
+    .C3{
+
+      font-size: 15px;
+      line-height: 15px;
+
+    }
+    .AboutMain{
+
+      margin-left: 30px;
+      margin-right: 30px;
+
+    }
+    .numText{
+
+      font-size: 40px;
+
+    }
+    .num2text{
+
+      font-size: 10px;
+
+    }
+    .WorldClassMain{
+
+      margin-left:  60px;
+      margin-right: 60px;
+
+    }
+    .w1{
+
+      font-size: 30px;
+      line-height: 30px;
+
+    }
+    .WC-pic{
+
+      height: auto;
+      width: 350px;
+      border-radius: 10px;
+
+    }
+    .team-text{
+
+      font-size: 40px;
+      text-align: center;
+
+    }
+    .map-border{
+
+      height: auto;
+      width: 100%;
+      border-radius: 10px;
+     
+
+    }
+    .map-margin{
+
+       margin-left:  30px;
+       margin-right: 30px;
+
+    }
+    .ContactFormMain{
+
+       margin-left:  30px;
+       margin-right: 30px;
+
+    }
+    .F-l{
+       
+       flex-direction: column;
+
+    }
+    .form-email{
+      
+       width: 240px;
+
+
+    }
+    .form-message{
+
+       width: 240px;
+
+    }
+    .let-text{
+      
+       font-size: 20px;
+       line-height: 20px;
+
+    }
+    .email-title{
+      
+      font-size: 10px;
+      line-height: 20px;
+
+    }
+    .form-flex{
+
+       width: 300px;
+       height: 850px;
+
+    }
+    .form-photo{
+      
+      width: 362px;
+
+    }
+    .form-button{
+
+      width: 271px;
+
+    }
+    .store-text{
+      
+       line-height: 20px;
+       
+    }
+    .find-text{
+       
+       line-height: 20px;
+
+    }
+    .locations-text1{
+
+       line-height: 16px;
+
+    }
+
    
  
  
