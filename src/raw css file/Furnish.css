@@ -113,7 +113,8 @@
 }
 .bannerAll{
 
-   background-image: url("https://s3-alpha-sig.figma.com/img/4c60/bf77/571667510d8e7b2f7d4515063962168a?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C4L-cLODXx0hN5MWE2bzvaLZdOjmjbenvNLFuUx2QCHDiF59QwUrEweWcRFkL4x9FosR3rrUHtETiXHuXmXeexQdsGPCTyVs0vHdPRJNC1YZoDBAfBX6hbjbEoWTeUNGUkdK4jYUZh75iPLh7LJctaLF5ggkyIwMWvji4pZB0GWomHEk8DcGffVS-K4b1lhovtlKCSAw-n4cUGqWC2pD2q1G76x-nyWJg6tMf7Qwzo9YMhc~lxSoO70oh-ELHJoZ6tfnI3b0l8e~6i775pw07bC-ygYjSGb7oUuzFJn33d6Rws3THdIRAZ6ooqkHuuGg6BkcUu-yPul-2Rr96NiHjg__");
+   /* background-image: url("https://s3-alpha-sig.figma.com/img/4c60/bf77/571667510d8e7b2f7d4515063962168a?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C4L-cLODXx0hN5MWE2bzvaLZdOjmjbenvNLFuUx2QCHDiF59QwUrEweWcRFkL4x9FosR3rrUHtETiXHuXmXeexQdsGPCTyVs0vHdPRJNC1YZoDBAfBX6hbjbEoWTeUNGUkdK4jYUZh75iPLh7LJctaLF5ggkyIwMWvji4pZB0GWomHEk8DcGffVS-K4b1lhovtlKCSAw-n4cUGqWC2pD2q1G76x-nyWJg6tMf7Qwzo9YMhc~lxSoO70oh-ELHJoZ6tfnI3b0l8e~6i775pw07bC-ygYjSGb7oUuzFJn33d6Rws3THdIRAZ6ooqkHuuGg6BkcUu-yPul-2Rr96NiHjg__"); */
+   background-image: url('../pic file/homebanner.jpg');
    background-size: cover;
    background-repeat: no-repeat;
    /* width: 100%; */
