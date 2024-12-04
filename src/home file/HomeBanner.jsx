@@ -6,6 +6,8 @@ const HomeBanner = () => {
 
     
     return (
+        <div className=" AB-RES ">
+
         <div className=" bannerAll ">
             <div className="  all-banner-text ">
                <p className=" bannerText ExText   ">EXPLORE ANY KIND OF FURNITURES</p>
@@ -16,6 +18,9 @@ const HomeBanner = () => {
                </div>
             </div>
         </div>
+
+        </div>
+        
     );
 };
 
