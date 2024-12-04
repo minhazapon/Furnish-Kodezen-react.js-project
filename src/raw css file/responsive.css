@@ -99,10 +99,10 @@
     }
     .bannerAll{
 
-      width: 270px;
+      width: fit-content;
       height: 200px;
-       margin-left: 40px;
-      margin-right: 20px; 
+        margin-left: 60px;
+      margin-right: 20px;  
       /* display: flex;
       justify-content: center; */
 
