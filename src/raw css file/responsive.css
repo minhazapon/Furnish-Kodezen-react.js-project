@@ -205,9 +205,9 @@
 
     }
     .res-icon{
-
-       height: 30px;
-       width:  35px;
+ 
+       height: 20px;
+       width:  25px;
 
     }
     .nav-margin-right{
@@ -216,7 +216,7 @@
     }
     .navName{
        
-       font-size: 16px;
+       font-size: 10px;
 
     }
     .navAbout{
@@ -651,8 +651,8 @@
    }
    .res-icon{
 
-      height: 30px;
-      width:  35px;
+      height: 20px;
+      width:  25px;
 
    }
    .nav-margin-right{
@@ -661,7 +661,7 @@
    }
    .navName{
       
-      font-size: 16px;
+      font-size: 10px;
 
    }
    .navAbout{
@@ -876,6 +876,7 @@
        line-height: 16px;
 
     }
+
 
    
  
