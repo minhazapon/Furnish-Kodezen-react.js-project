@@ -99,7 +99,7 @@
     }
     .bannerAll{
 
-      width: fit-content;
+      width: 320px;
       height: 200px;
       /* margin-left: 20px;
       margin-right: 10px; */
@@ -150,6 +150,7 @@
     .bannerButton{
 
        font-size: 15px;
+       margin-top: 10px;
 
     }
     .NumberContainer{
@@ -226,8 +227,8 @@
     }
     .DiscoverText{
 
-       font-size: 45px;
-       line-height: 50px;
+       font-size: 30px;
+       line-height: 35px;
    
     }
     .all-banner-text{
@@ -237,7 +238,7 @@
     }
     .bannerAll{
 
-      margin-left: 10px;
+      margin-left: 15px;
       /* margin-right: 5px; */
       margin-bottom: 5px;
       margin-top: 100px;
@@ -544,7 +545,7 @@
     }
     .bannerAll{
 
-      width: fit-content;
+      width: 320px;
       height: 200px;
       /* margin-left: 20px;
       margin-right: 10px; */
@@ -671,8 +672,8 @@
    }
    .DiscoverText{
 
-      font-size: 45px;
-      line-height: 50px;
+      font-size: 35px;
+      line-height: 40px;
   
    }
    .all-banner-text{
