@@ -456,7 +456,8 @@
 }
 .RoomPic{
 
-   background-image: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/dark-living-room-design-free-photo.jpg?w=2210&quality=70") ;
+   /* background-image: url("https://i0.wp.com/picjumbo.com/wp-content/uploads/dark-living-room-design-free-photo.jpg?w=2210&quality=70") ; */
+   background-image: url('/src/pic file/dis1.webp');
    background-size: cover;
    background-repeat: no-repeat;
    height: 700px;
@@ -642,7 +643,8 @@
 }
 .Pay-img{
 
-   background-image: url("https://img.freepik.com/premium-photo/shadow-dark-halftone-pattern_87720-267250.jpg?w=826");
+   /* background-image: url("https://img.freepik.com/premium-photo/shadow-dark-halftone-pattern_87720-267250.jpg?w=826"); */
+   background-image: url('../pic file/pay.avif');
    background-size: cover;
    background-repeat: no-repeat;
    height: 500px;
@@ -769,7 +771,7 @@
    font-style: normal;
    font-size: 14px;
    line-height: 16.94px;
-   color: #FFFFFF;
+   color: #ffffffa4;
    cursor: pointer;
 
 }
