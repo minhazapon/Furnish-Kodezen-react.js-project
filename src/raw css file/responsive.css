@@ -387,6 +387,8 @@
 
        margin-left:  30px;
        margin-right: 30px;
+       display: flex;
+       justify-content: center;
 
     }
     .F-l{
@@ -396,41 +398,44 @@
     }
     .form-email{
       
-       width: 240px;
+       height: 15px;
+       width: 150px;
 
 
     }
     .form-message{
-
-       width: 240px;
+      
+       height: 70px;
+       width: 150px;
 
     }
     .let-text{
       
-       font-size: 20px;
-       line-height: 20px;
+       font-size: 15px;
+       line-height: 15px;
 
     }
     .email-title{
       
-      font-size: 10px;
-      line-height: 20px;
+      font-size: 7px;
+      line-height: 15px;
 
     }
     .form-flex{
 
-       width: 300px;
-       height: 850px;
+       width: 200px;
+       height: 640px;
 
     }
     .form-photo{
       
-      width: 362px;
+      height: auto;
+      width: 262px;
 
     }
     .form-button{
 
-      width: 271px;
+      width: 181px;
 
     }
     .store-text{
@@ -487,6 +492,12 @@
     .FooterMain{
 
        padding: 70px;
+
+    }
+    .FN{
+      
+       height: 15px;
+       width: 150px;
 
     }
 
