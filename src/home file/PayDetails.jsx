@@ -5,7 +5,7 @@ const PayDetails = () => {
 
 
     return (
-        <div>
+        <div className=" allPay ">
 
             <div className=" Pay-img ">
                 <div className=" pay-margin ">

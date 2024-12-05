@@ -599,18 +599,21 @@
     .Pay-img{
      
       height: auto;
-      width: fit-content;
+      width: fit-content ;
+      /* margin-left: 10px;
+      margin-left: 10px; */
 
 
     }
     .pay-text{
 
       font-size: 30px;
+      
 
     }
     .lorem{
      
-      font-size: 15px;
+      font-size: 10px;
 
     }
     .ExText{
