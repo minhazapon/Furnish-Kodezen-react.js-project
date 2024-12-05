@@ -258,7 +258,7 @@
     }
     .BestText{
 
-      font-size: 25px;
+      font-size: 20px;
       line-height: 25px;
      
     }
@@ -521,7 +521,31 @@
       line-height: 15px;
 
     }
+    .BPCONTAINER{
 
+      padding: 25px;
+
+    }
+    .ProductText{
+
+      font-size: 18px;
+      line-height: 22px;
+
+    }
+    .ProPara{
+      
+
+      font-size: 11px;
+      line-height: 15px;
+
+
+    }
+    .P-icons{
+
+      height: 30px;
+      width: 30px;
+
+    }
 
     
   
