@@ -480,8 +480,13 @@
     }
     .social-icon{
 
-      height: 15px;
-      width: 15px;
+      height: 13px;
+      width: 13px;
+
+    }
+    .FooterMain{
+
+       padding: 70px;
 
     }
 
