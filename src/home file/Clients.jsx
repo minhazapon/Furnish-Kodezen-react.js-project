@@ -10,7 +10,7 @@ const Clients = () => {
         <div className=" Clients  ">
 
             <div>
-            <div>
+            <div className=' c-s '>
             <p className=" BestText2 ">What our clients say</p>               
             </div>
 
