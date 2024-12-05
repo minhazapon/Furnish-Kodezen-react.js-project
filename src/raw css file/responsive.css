@@ -389,6 +389,7 @@
        margin-right: 30px;
        display: flex;
        justify-content: center;
+       margin-top: -60px;
 
     }
     .F-l{
@@ -440,17 +441,20 @@
     }
     .store-text{
       
-       line-height: 20px;
+      font-size: 15px;
+       line-height: 15px;
        
     }
     .find-text{
        
-       line-height: 20px;
+       font-size: 15px;
+       line-height: 15px;
 
     }
     .locations-text1{
-
-       line-height: 16px;
+       
+       font-size: 12px;
+       line-height: 15px;
 
     }
     .dm-sans{
@@ -498,6 +502,23 @@
       
        height: 15px;
        width: 150px;
+
+    }
+    .AddressInformation{
+
+      
+       padding: 100px;
+
+    }
+    .locations-text{
+
+      font-size: 12px;
+
+    }
+    .M-text{
+
+      font-size: 15px; 
+      line-height: 15px;
 
     }
 
@@ -936,17 +957,20 @@
     }
     .store-text{
       
-       line-height: 20px;
+      font-size: 15px;
+       line-height: 15px;
        
     }
     .find-text{
        
+      font-size: 15px;
        line-height: 20px;
 
     }
     .locations-text1{
 
-       line-height: 16px;
+      font-size: 12px;
+      line-height: 12px;
 
     }
     .CT-1{
