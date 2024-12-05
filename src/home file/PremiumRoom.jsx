@@ -7,7 +7,7 @@ const PremiumRoom = () => {
         <div>
         <div className=" RoomPic ">
         <div className=" room-bg ">
-        <p className=" RoomButton RoomText ">Dis<span className=" ">play</span> Package Premium <br></br>For Space Room</p>
+        <p className=" RoomButton RoomText ">Display Package Premium <br></br>For Space Room</p>
         </div>
         </div>
         </div>
