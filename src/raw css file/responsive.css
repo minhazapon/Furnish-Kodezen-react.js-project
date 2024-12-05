@@ -126,6 +126,17 @@
      
       height: 250px;
       width: 100%;
+      border-radius: 10px;
+
+    }
+    .allRoom{
+
+      display: flex;
+      justify-content: center;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: 10px;
+      
 
     }
     .RoomText{
@@ -137,7 +148,17 @@
      
       height: auto;
       width: fit-content;
+      border-radius: 10px;
 
+
+    }
+    .allPay{
+
+      display: flex;
+      justify-content: end;
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
 
     }
     .pay-text{
@@ -280,14 +301,14 @@
   
     .pay-text{
 
-      font-size: 18px;
-      line-height: 18px;
+      font-size: 10px;
+      line-height: 12px;
 
     }
     .lorem{
 
-      font-size: 15px;
-      line-height: 15px;
+      font-size: 8px;
+      line-height: 8px;
       margin-top: 10px;
       font-weight: 300;
       
@@ -827,14 +848,14 @@
     }
     .pay-text{
 
-      font-size: 18px;
-      line-height: 18px;
+      font-size: 10px;
+      line-height: 12px;
 
     }
     .lorem{
 
-      font-size: 15px;
-      line-height: 15px;
+      font-size: 8px;
+      line-height: 8px;
       margin-top: 10px;
       font-weight: 300;
       
